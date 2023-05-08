@@ -5,7 +5,7 @@ import logging
 
 def increment_ip(ip):
     '''
-    Return the " next" IPv4 address.
+    Return the " next " IPv4 address.
 
     >>> increment_ip('1.2.3.4')
     '1.2.3.5'
